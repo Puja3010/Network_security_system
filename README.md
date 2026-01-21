@@ -1,1 +1,1 @@
-### This is my NETWORK SECURITY PROJECT for phising data
+### This is my NETWORK SECURITY PROJECT for phishing data
